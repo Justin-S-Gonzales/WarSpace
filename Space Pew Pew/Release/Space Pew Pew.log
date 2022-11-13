@@ -1,0 +1,45 @@
+﻿  Game.cpp
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(20,154): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(21,148): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(22,159): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(23,143): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(36,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(40,137): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(170,156): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(171,161): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(174,156): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(270,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(374,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(374,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(434,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(450,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(515,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(783,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1015,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1051,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1051,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1407,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1502,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1512,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1550,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1560,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1566,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1580,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1592,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1614,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1638,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1648,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1658,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1667,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1679,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1689,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1699,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1708,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1720,29): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Space Pew Pew\Game.cpp(1722,29): warning C4305: '*=': truncation from 'double' to 'float'
+  Generating code
+  1 of 1057 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Space Pew Pew.vcxproj -> C:\Users\justi\Documents\Visual Studio 2019\Projects\Space Pew Pew\Release\Space Pew Pew.exe
