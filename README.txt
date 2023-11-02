@@ -13,7 +13,7 @@ https://www.linkedin.com/posts/justin-gonzales-6261141ba_here-is-a-video-demonst
 itch.ioにページがあります。スクリーンショットとダウンロードもあります。ご覧になってください：
 Itch.io: https://justin-s-gonzales.itch.io/war-space 
 
-全てのテクスチャは私は作りました。音はfreesound.orgから取りました。
+全てのテクスチャは私が作りました。音はfreesound.orgから取りました。
 
-ファイルには紹介動画が含まれていますが、LinkedInで見ることができます。
+ファイルには紹介動画が含まれていますが、LinkedInからも見ることができます。
 https://www.linkedin.com/posts/justin-gonzales-6261141ba_here-is-a-video-demonstration-of-my-warspace-activity-7115207711700516864-3H8z?utm_source=share&utm_medium=member_desktop 
